@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Arquivos usados de exemplos
+arquivos_base/
